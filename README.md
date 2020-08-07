@@ -1,4 +1,5 @@
-I'm ## Gleison de Alemida.
+I'm 
+## Gleison de Almeida.
 Welcome to my repository, here most of my study projects are gathered, my daily evolution. 💻 
 
 - 💼 I'm currently working at Fecomércio MG.
