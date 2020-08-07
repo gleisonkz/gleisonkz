@@ -23,4 +23,4 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true" />
