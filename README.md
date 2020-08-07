@@ -6,12 +6,15 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 - ❤️ Angular, .NET C#  + Entity Framework.
 - 🎴 Love learn how to learn and everything about memorizing techniques.
 - 💬 Ask me about: tech, games, movies, Anki and study techniques.
+- ⚡ Fun fact: I love roller skating and play bass / drums / keys and sing.
 
 ### Connect with me:
 
 [<img align="left" alt="Gleison Almeida | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gleison Almeida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Gleison Almeida | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ### Languages and Tools:
 
