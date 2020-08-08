@@ -41,10 +41,6 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 <br />
 
 <img align="left" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true" />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 [youtube]:https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber" 
 [linkedin]:https://www.linkedin.com/in/gleison-ribeiro-a65257119/
