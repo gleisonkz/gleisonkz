@@ -41,7 +41,8 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 <br />
 
 <img align="left" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true" />
-[![Gleison's github Stats](https://github-readme-stats.vercel.app/api?username=gleisonkz)](https://github.com/gleisonkz/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
