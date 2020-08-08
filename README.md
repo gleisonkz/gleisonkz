@@ -1,12 +1,13 @@
-Welcome to my repository, here most of my study projects are gathered, my daily evolution. 💻 
+<h1 align="center">Hi 👋, I'm Gleison Almeida</h1>
+<h3 align="center">Welcome to my repository, here most of my study projects are gathered, my daily evolution. 💻</h3>
 
-- 💼 I'm currently working at Fecomércio MG.
-- ❤️ Angular, .NET C#  + Entity Framework.
-- 🎴 Love learn how to learn and everything about memorizing techniques.
+- 🔭 I'm currently working on **Fecomércio MG.**
+- 💬 Ask me about **tech, games, movies, Anki and study techniques.**
+- 🎴 Love **learn how to learn** and everything about **memorizing** techniques.
 - 💬 Ask me about: tech, games, movies, Anki and study techniques.
-- ⚡ Fun fact: I love roller skating and play bass / drums / keys and sing.
+- ⚡ Fun fact **I love roller skating and play bass / drums / keys and sing.**
 
-### Connect with me:
+<h3 align="center">Connect with me:</h3>
 
 [<img align="left" alt="Gleison Almeida | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gleison Almeida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -14,8 +15,9 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 
 <br />
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
+<div align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Comunnity" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 
@@ -37,8 +39,12 @@ Welcome to my repository, here most of my study projects are gathered, my daily 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+</div>
+
 <br />
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" /> </p>
 
 <img align="left" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true" />
 
