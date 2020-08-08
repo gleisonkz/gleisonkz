@@ -22,9 +22,6 @@
 <img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="40" height="40">
 </a>
 </p>
-
-<br />
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
