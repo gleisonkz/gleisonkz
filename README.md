@@ -9,11 +9,19 @@
 
 <h3 align="center">Connect with me:</h3>
 
+<p align="center">
+<a href="https://www.instagram.com/gleison_gbass/">
+<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40">
+</a>
 
-[<img align="center" alt="Gleison Almeida | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="Gleison Almeida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Gleison Almeida | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
+<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" border="0" width="40" height="40">
+</a>
 
+<a href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
+<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="40" height="40">
+</a>
+</p>
 
 <br />
 
@@ -48,7 +56,3 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" /> </p>
 
 <img align="left" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true" />
-
-[youtube]: https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber"
-[linkedin]: https://www.linkedin.com/in/gleison-ribeiro-a65257119/
-[instagram]: https://www.instagram.com/gleison_gbass/
