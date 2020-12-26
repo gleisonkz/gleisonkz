@@ -29,12 +29,17 @@
 <img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" title="TypeScript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" title="TypeScript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" title="Sass" width="40" height="40"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="Parcel" title="Parcel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="WebPack" title="WebPack" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
