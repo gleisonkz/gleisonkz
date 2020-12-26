@@ -45,6 +45,8 @@
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="WebPack" title="WebPack" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+<img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true" alt="Entity Framework Core" title="Entity Framework Core" width="40" height="40"/>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img  alt="SQL Server" title="SQL Server" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
