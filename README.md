@@ -25,12 +25,12 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
-<img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img  alt="Visual Studio Comunnity" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" title="TypeScript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/> 
