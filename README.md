@@ -11,15 +11,15 @@
 
 <p align="center">
 <a href="https://www.instagram.com/gleison_gbass/">
-<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40">
+<img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/instagram.png" width="40" height="40">
 </a>
 
 <a href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
-<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" border="0" width="40" height="40">
+<img alt="W3Schools" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" border="0" width="40" height="40">
 </a>
 
 <a href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
-<img alt="W3Schools" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="40" height="40">
+<img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/youtube.png" width="40" height="40">
 </a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
