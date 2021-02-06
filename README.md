@@ -69,34 +69,27 @@
 **Front-end**
 
 <code>
-
 <a href="https://angular.io/docs" target="_blank" >
     <img src="https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor" alt="Angular" title="Angular" width="40" height="40"/>
 </a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" >
     <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 </a>
-
 <a href="https://www.w3schools.com/html/" target="_blank" >
     <img src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor" 
     alt="HTML5" title="HTML5" width="40" height="40"/>
 </a>
-
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" >
     <img src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" 
     alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
-
 <a href="https://sass-lang.com/documentation" target="_blank" >
     <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
     alt="Sass" title="Sass" width="40" height="40"/>
 </a>
-
 </code>
 
 **Databases**
