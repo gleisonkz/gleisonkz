@@ -1,9 +1,3 @@
-<div align="right">
-  
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)  [![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
-  
-</div>
-
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
 <h3 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
 
