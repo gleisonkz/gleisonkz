@@ -5,13 +5,25 @@
 </div>
 
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
-<h3 align="center">Bem vindo ao meu repositório, aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
+<h3 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
 
 - 🔭 Atualmente trabalhando na **Fecomércio MG.**
 - 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
 <h3 align="center">Meus contatos:</h3>
+
+**:zap: Atividades Recentes:**
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#26](https://github.com/APLA-Toolbox/pymapf/pull/26) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+2. 🎉 Merged PR [#25](https://github.com/APLA-Toolbox/pymapf/pull/25) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+3. ❗️ Opened issue [#24](https://github.com/APLA-Toolbox/pymapf/issues/24) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 🎉 Merged PR [#22](https://github.com/APLA-Toolbox/pymapf/pull/22) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. ❗️ Closed issue [#18](https://github.com/APLA-Toolbox/pymapf/issues/18) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+
+<!--END_SECTION:activity-->
 
 <p align="center">
 <a href="https://www.instagram.com/gleison_gbass/">
