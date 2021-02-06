@@ -7,6 +7,8 @@
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
 <h3 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
+
 - 🔭 Atualmente trabalhando na **Fecomércio MG.**
 - 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
