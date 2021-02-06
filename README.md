@@ -13,7 +13,26 @@
 - 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
+</br>
+</br>
+</br>
 <h3 align="center">Meus contatos:</h3>
+
+<p align="center">
+
+<a href="https://www.instagram.com/gleison_gbass/">
+    <img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/instagram.png" width="40" height="40">
+</a>
+
+<a href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
+    <img alt="W3Schools" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" border="0" width="40" height="40">
+</a>
+
+<a href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
+    <img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/youtube.png" width="40" height="40">
+</a>
+
+</p>
 
 **:zap: Atividades Recentes:**
 
@@ -26,20 +45,6 @@
 5. ❗️ Closed issue [#18](https://github.com/APLA-Toolbox/pymapf/issues/18) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 
 <!--END_SECTION:activity-->
-
-<p align="center">
-<a href="https://www.instagram.com/gleison_gbass/">
-<img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/instagram.png" width="40" height="40">
-</a>
-
-<a href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
-<img alt="W3Schools" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" border="0" width="40" height="40">
-</a>
-
-<a href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
-<img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/youtube.png" width="40" height="40">
-</a>
-</p>
 
 <p align="center">
 
