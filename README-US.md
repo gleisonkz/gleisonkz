@@ -1,17 +1,19 @@
 <div align="right">
-  
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)  [![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
-  
+
+[![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)[![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
+
 </div>
 
-<h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
-<h3 align="center">Bem vindo ao meu repositório, aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
+<h1 align="center">Hi 👋, I'm Gleison Almeida</h1>
+<h3 align="center">Welcome to my repository, here most of my study projects are gathered, my daily evolution. 💻</h3>
 
-- 🔭 Atualmente trabalhando na **Fecomércio MG.**
-- 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
-- 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
+- 🔭 I'm currently working on **Fecomércio MG.**
+- 💬 Ask me about **tech, games, movies, Anki and study techniques.**
+- 🎴 Love **learn how to learn** and everything about **memorizing** techniques.
+- 💬 Ask me about: tech, games, movies, Anki and study techniques.
+- ⚡ Fun fact **I love roller skating and play bass / drums / keys and sing.**
 
-<h3 align="center">Meus contatos:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://www.instagram.com/gleison_gbass/">
@@ -29,7 +31,7 @@
 
 <p align="center">
 
-### Minha Stack de Desenvolvimento:
+### Languages and Tools:
 
 **Back-end**
 
