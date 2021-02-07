@@ -31,9 +31,9 @@
 **:zap: Atividades Recentes:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
-2. ❗️ Opened issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
-3. ❗️ Opened issue [#2](https://github.com/gleisonkz/angular-todo-list/issues/2) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+1. ❗️ Closed issue [#2](https://github.com/gleisonkz/angular-todo-list/issues/2) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+2. ❗️ Closed issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+3. ❗️ Opened issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
 <!--END_SECTION:activity-->
 
 <p align="center">
