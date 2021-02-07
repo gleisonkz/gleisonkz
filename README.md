@@ -31,13 +31,9 @@
 **:zap: Atividades Recentes:**
 
 <!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#26](https://github.com/APLA-Toolbox/pymapf/pull/26) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-2. 🎉 Merged PR [#25](https://github.com/APLA-Toolbox/pymapf/pull/25) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-3. ❗️ Opened issue [#24](https://github.com/APLA-Toolbox/pymapf/issues/24) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. 🎉 Merged PR [#22](https://github.com/APLA-Toolbox/pymapf/pull/22) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. ❗️ Closed issue [#18](https://github.com/APLA-Toolbox/pymapf/issues/18) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-
+1. ❗️ Opened issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+2. ❗️ Opened issue [#2](https://github.com/gleisonkz/angular-todo-list/issues/2) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+3. ❗️ Opened issue [#1](https://github.com/gleisonkz/angular-todo-list/issues/1) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
 <!--END_SECTION:activity-->
 
 <p align="center">
