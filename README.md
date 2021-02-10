@@ -129,11 +129,11 @@
     <img  alt="Jest" title="Jest" width="40" height="40" src="./images/jest-seeklogo.com.svg" />
 </a>
 
-<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank" >
     <img  alt="Karma" title="Karma" width="40" height="40" src="./images/karma.svg" />
 </a>
 
-<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+<a href="https://www.selenium.dev/" target="_blank" >
     <img  alt="Selenium" title="Selenium" width="40" height="40" src="./images/selenium-logo.svg" />
 </a>
 
@@ -173,7 +173,7 @@
     <img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
+<a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true" target="_blank" >
     <img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 </a>
 
