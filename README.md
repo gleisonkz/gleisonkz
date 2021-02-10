@@ -31,6 +31,7 @@
 **:zap: Atividades Recentes:**
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#3](https://github.com/gleisonkz/angular-todo-list/issues/3) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
 2. ❗️ Opened issue [#2](https://github.com/gleisonkz/angular-todo-list/issues/2) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
 3. ❗️ Opened issue [#1](https://github.com/gleisonkz/angular-todo-list/issues/1) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
@@ -82,6 +83,16 @@
 </a>
 </code>
 
+**Mobile**
+
+<code>
+
+<a href="https://ionicframework.com/" target="_blank" >
+    <img  alt="Ionic" title="Ionic" width="40" height="40" src="./images/ionic-logo.png" />
+</a>
+
+</code>
+
 **Databases**
 
 <code>
@@ -106,6 +117,28 @@
 
 </code>
 
+**Testing**
+
+<code>
+
+<a href="https://jasmine.github.io/" target="_blank" >
+    <img  alt="Jasmine" title="Jasmine" width="40" height="40" src="./images/jasmine-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+    <img  alt="Jest" title="Jest" width="40" height="40" src="./images/jest-seeklogo.com.svg" />
+</a>
+
+<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+    <img  alt="Karma" title="Karma" width="40" height="40" src="./images/karma.svg" />
+</a>
+
+<a href="https://jestjs.io/docs/en/getting-started" target="_blank" >
+    <img  alt="Selenium" title="Selenium" width="40" height="40" src="./images/selenium-logo.svg" />
+</a>
+
+</code>
+
 **Bundlers**
 
 <code>
@@ -119,15 +152,9 @@
 </a>
 </code>
 
-**Tools**
+**Source Control**
 
 <code>
-<a href="https://code.visualstudio.com/docs" target="_blank" >
-    <img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
-    <img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
-</a>
 
 <a href="https://git-scm.com/doc" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
@@ -138,6 +165,28 @@
 </a>
 
 </code>
+
+**Softwares**
+
+<code>
+<a href="https://code.visualstudio.com/docs" target="_blank" >
+    <img  alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</a>
+
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
+    <img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+</a>
+
+<a href="https://www.postman.com/" target="_blank" >
+    <img  alt="Postman" title="Postman" width="40" height="40" src="./images/postman-seeklogo.com.svg" />
+</a>
+
+<a href="https://insomnia.rest/" target="_blank" >
+    <img  alt="Insomnia" title="Insomnia" width="40" height="40" src="./images/insomnia.svg" />
+</a>
+
+</code>
+
 </p>
 
 <br />
