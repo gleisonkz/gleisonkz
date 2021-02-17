@@ -32,9 +32,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/JuAintablian/front-controle-estoque/issues/1) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-2. ❗️ Closed issue [#1](https://github.com/gleisonkz/angular-todo-list/issues/1) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
-3. ❗️ Closed issue [#2](https://github.com/gleisonkz/angular-todo-list/issues/2) in [gleisonkz/angular-todo-list](https://github.com/gleisonkz/angular-todo-list)
+1. ❗️ Closed issue [#5](https://github.com/JuAintablian/front-controle-estoque/issues/5) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+2. ❗️ Closed issue [#6](https://github.com/JuAintablian/front-controle-estoque/issues/6) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+3. ❗️ Closed issue [#1](https://github.com/JuAintablian/front-controle-estoque/issues/1) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
 <!--END_SECTION:activity-->
 
 <p align="center">
