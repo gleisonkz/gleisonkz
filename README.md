@@ -32,9 +32,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/JuAintablian/front-controle-estoque/pull/22) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-2. 💪 Opened PR [#16](https://github.com/JuAintablian/front-controle-estoque/pull/16) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-3. ❗️ Closed issue [#5](https://github.com/JuAintablian/front-controle-estoque/issues/5) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+1. 💪 Opened PR [#24](https://github.com/JuAintablian/front-controle-estoque/pull/24) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+2. 💪 Opened PR [#22](https://github.com/JuAintablian/front-controle-estoque/pull/22) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+3. 💪 Opened PR [#16](https://github.com/JuAintablian/front-controle-estoque/pull/16) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
 <!--END_SECTION:activity-->
 
 <p align="center">
