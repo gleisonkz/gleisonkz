@@ -45,7 +45,8 @@
 
 **:zap: Minhas Últimas Postagens**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
+</a>
 
 **:man_technologist: Minha Stack de Desenvolvimento:**
 
