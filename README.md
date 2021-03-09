@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
-<h3 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h3>
+<h4 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h4>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
@@ -14,16 +14,20 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/gleison_gbass/">
-    <img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/instagram.png" width="40" height="40">
+<a title="Instagram" href="https://www.instagram.com/gleison_gbass/">
+    <img alt="Instagram Logo" src="./images/social-medias/instagram.png" width="40" height="40">
 </a>
 
-<a href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
-    <img alt="W3Schools" src="https://icongr.am/devicon/linkedin-original.svg?size=148&color=currentColor" border="0" width="40" height="40">
+<a title="Linkedin" href="https://www.linkedin.com/in/gleison-ribeiro-a65257119/">
+    <img alt="Linkedin Logo" src="./images/social-medias/linkedin.svg" width="40" height="40">
 </a>
 
-<a href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
-    <img alt="W3Schools" src="https://github.com/gleisonkz/technologies-icons/blob/master/youtube.png" width="40" height="40">
+<a title="Youtube" href="https://www.youtube.com/channel/UCxZ1pK5ExBbS6VS0x5YMGfA?view_as=subscriber">
+    <img alt="Youtube Logo" src="./images/social-medias/youtube.png" width="40" height="40">
+</a>
+
+<a title="Medium" href="https://gleisonsubzerokz.medium.com/">
+    <img alt="Medium Logo" src="./images/social-medias/medium.svg" width="40" height="40">
 </a>
 
 </p>
@@ -39,7 +43,11 @@
 
 <p align="center">
 
-### Minha Stack de Desenvolvimento:
+**:zap: Minhas Últimas Postagens**
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
+
+**:man_technologist: Minha Stack de Desenvolvimento**:
 
 **Back-end**
 
@@ -174,16 +182,22 @@
 </a>
 
 <a href="https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true" target="_blank" >
-    <img  alt="Visual Studio Comunnity" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
+    <img  alt="Visual Studio Community" title="Visual Studio Community" width="40" height="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 </a>
 
 <a href="https://www.postman.com/" target="_blank" >
     <img  alt="Postman" title="Postman" width="40" height="40" src="./images/postman-seeklogo.com.svg" />
 </a>
 
-<a href="https://insomnia.rest/" target="_blank" >
+<a href="[insominia-url]" target="_blank" >
     <img  alt="Insomnia" title="Insomnia" width="40" height="40" src="./images/insomnia.svg" />
 </a>
+
+<a href="https://insomnia.rest/" target="_blank" >
+    <img  alt="Responsively Logo" title="Responsively" width="40" height="40" src="./images/responsively.svg" />
+</a>
+
+[insominia-url]: "https://insomnia.rest/"
 
 </code>
 
