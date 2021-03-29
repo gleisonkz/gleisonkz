@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#47](https://github.com/JuAintablian/front-controle-estoque/pull/47) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-2. 🗣 Commented on [#10084](https://github.com/angular/components/issues/10084) in [angular/components](https://github.com/angular/components)
-3. 💪 Opened PR [#37](https://github.com/JuAintablian/front-controle-estoque/pull/37) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+1. 💪 Opened PR [#54](https://github.com/JuAintablian/front-controle-estoque/pull/54) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+2. 💪 Opened PR [#47](https://github.com/JuAintablian/front-controle-estoque/pull/47) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+3. 🗣 Commented on [#10084](https://github.com/angular/components/issues/10084) in [angular/components](https://github.com/angular/components)
 <!--END_SECTION:activity-->
 
 <p align="center">
