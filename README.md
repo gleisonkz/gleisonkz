@@ -41,17 +41,17 @@
 3. 💪 Opened PR [#25](https://github.com/JuAintablian/front-controle-estoque/pull/25) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
 <!--END_SECTION:activity-->
 
-<p align="center">
+<p align="center" style="display:flex">
 
 **:zap: Minhas Últimas Postagens**
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
 </a>
 
-**:man_technologist: Minha Stack de Desenvolvimento:**
+#### :man_technologist: Minha Stack de Desenvolvimento
 
-**Back-end**
-
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Back-End</strong></summary>
 <code>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" >
     <img src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor" 
@@ -66,14 +66,24 @@
 </a>
 </code>
 
-**Front-end**
+</details>
 
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
 <code>
+
 <a href="https://angular.io/docs" target="_blank" >
-    <img src="https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor" alt="Angular" title="Angular" width="40" height="40"/>
+    <img src="./images/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
+</a>
+<a href="https://material.angular.io/" target="_blank" >
+    <img src="./images/angular-material.png" alt="Angular Material" title="Angular Material" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" >
     <img src="https://icongr.am/devicon/typescript-original.svg?size=148&color=currentColor" alt="Typescript" title="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com/documentation" target="_blank" >
+    <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
+    alt="Sass" title="Sass" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor" alt="JavaScript" title="JavaScript" width="40" height="40"/>
@@ -86,14 +96,13 @@
     <img src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor" 
     alt="CSS3" title="CSS3" width="40" height="40"/>
 </a>
-<a href="https://sass-lang.com/documentation" target="_blank" >
-    <img src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor" 
-    alt="Sass" title="Sass" width="40" height="40"/>
-</a>
+
 </code>
 
-**Mobile**
+</details>
 
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Mobile</strong></summary>
 <code>
 
 <a href="https://ionicframework.com/" target="_blank" >
@@ -101,9 +110,10 @@
 </a>
 
 </code>
+</details>
 
-**Databases**
-
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Databases</strong></summary>
 <code>
 
 <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank" >
@@ -112,8 +122,10 @@
 
 </code>
 
-**Cloud Servers**
+</details>
 
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Cloud Servers</strong></summary>
 <code>
 
 <a href="https://app.netlify.com/" target="_blank" >
@@ -126,7 +138,10 @@
 
 </code>
 
-**Testing**
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Testing</strong></summary>
 
 <code>
 
@@ -148,7 +163,10 @@
 
 </code>
 
-**Bundlers**
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Bundlers</strong></summary>
 
 <code>
 <a href="https://parceljs.org/getting_started.html" target="_blank" >
@@ -161,7 +179,10 @@
 </a>
 </code>
 
-**Source Control**
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Source Control</strong></summary>
 
 <code>
 
@@ -175,7 +196,32 @@
 
 </code>
 
-**Softwares**
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Productivity and Standards</strong></summary>
+
+<code>
+<a href="https://githooks.com/" target="_blank" >
+    <img  alt="Git Hooks" title="Git Hooks" width="40" height="40" src="./images/hooks.png" />
+</a>
+
+<a href="https://eslint.org/" target="_blank" >
+    <img  alt="ES Lint" title="ES Lint" width="40" height="40" src="./images/eslint.png" />
+</a>
+
+<a href="https://prettier.io/" target="_blank" >
+    <img  alt="Prettier" title="Prettier" width="40" height="40" src="./images/prettier.png" />
+</a>
+
+[insominia-url]: "https://insomnia.rest/"
+
+</code>
+
+</details>
+
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Softwares</strong></summary>
 
 <code>
 <a href="https://code.visualstudio.com/docs" target="_blank" >
@@ -202,6 +248,7 @@
 
 </code>
 
+</details>
 </p>
 
 <br />
@@ -210,5 +257,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" /> </p>
 
 <img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&langs_count=5&theme=dark&layout=compact" />
-
+<br/>
 <img align="center" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true&theme=dark" />
