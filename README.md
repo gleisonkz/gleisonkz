@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/Hernandesjunio/typing-text/pull/1) in [Hernandesjunio/typing-text](https://github.com/Hernandesjunio/typing-text)
-2. ❗️ Closed issue [#67](https://github.com/JuAintablian/front-controle-estoque/issues/67) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-3. 🗣 Commented on [#67](https://github.com/JuAintablian/front-controle-estoque/issues/67) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+1. ❗️ Opened issue [#24](https://github.com/hgiesel/anki_asset_manager/issues/24) in [hgiesel/anki_asset_manager](https://github.com/hgiesel/anki_asset_manager)
+2. 💪 Opened PR [#1](https://github.com/Hernandesjunio/typing-text/pull/1) in [Hernandesjunio/typing-text](https://github.com/Hernandesjunio/typing-text)
+3. ❗️ Closed issue [#67](https://github.com/JuAintablian/front-controle-estoque/issues/67) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
