@@ -37,8 +37,8 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-2. ❗️ Opened issue [#24](https://github.com/hgiesel/anki_asset_manager/issues/24) in [hgiesel/anki_asset_manager](https://github.com/hgiesel/anki_asset_manager)
-3. 💪 Opened PR [#1](https://github.com/Hernandesjunio/typing-text/pull/1) in [Hernandesjunio/typing-text](https://github.com/Hernandesjunio/typing-text)
+2. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+3. ❗️ Opened issue [#24](https://github.com/hgiesel/anki_asset_manager/issues/24) in [hgiesel/anki_asset_manager](https://github.com/hgiesel/anki_asset_manager)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
