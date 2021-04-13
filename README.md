@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+1. 💪 Opened PR [#73](https://github.com/ng-devs/front-controle-estoque/pull/73) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
 2. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-3. ❗️ Opened issue [#24](https://github.com/hgiesel/anki_asset_manager/issues/24) in [hgiesel/anki_asset_manager](https://github.com/hgiesel/anki_asset_manager)
+3. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
