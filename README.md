@@ -36,8 +36,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#73](https://github.com/ng-devs/front-controle-estoque/pull/73) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
-2. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+1. 💪 Opened PR [#76](https://github.com/ng-devs/front-controle-estoque/pull/76) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
+2. 💪 Opened PR [#73](https://github.com/ng-devs/front-controle-estoque/pull/73) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
 3. 🗣 Commented on [#951](https://github.com/okonet/lint-staged/issues/951) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
 <!--END_SECTION:activity-->
 
