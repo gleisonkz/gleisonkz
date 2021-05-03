@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/Cardosaum/anki-addons/issues/1) in [Cardosaum/anki-addons](https://github.com/Cardosaum/anki-addons)
-2. 🎉 Merged PR [#1](https://github.com/gleisonkz/ng-podcastr/pull/1) in [gleisonkz/ng-podcastr](https://github.com/gleisonkz/ng-podcastr)
-3. 💪 Opened PR [#1](https://github.com/gleisonkz/ng-podcastr/pull/1) in [gleisonkz/ng-podcastr](https://github.com/gleisonkz/ng-podcastr)
+1. 🗣 Commented on [#1](https://github.com/Cardosaum/anki-addons/issues/1) in [Cardosaum/anki-addons](https://github.com/Cardosaum/anki-addons)
+2. ❗️ Opened issue [#1](https://github.com/Cardosaum/anki-addons/issues/1) in [Cardosaum/anki-addons](https://github.com/Cardosaum/anki-addons)
+3. 🎉 Merged PR [#1](https://github.com/gleisonkz/ng-podcastr/pull/1) in [gleisonkz/ng-podcastr](https://github.com/gleisonkz/ng-podcastr)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
