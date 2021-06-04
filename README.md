@@ -36,9 +36,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord/pull/1) in [WendellRodriguesAmaral/Projeto-c.passWord](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord)
-2. 💪 Opened PR [#79](https://github.com/ng-devs/front-controle-estoque/pull/79) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
-3. 🗣 Commented on [#1](https://github.com/Cardosaum/anki-addons/issues/1) in [Cardosaum/anki-addons](https://github.com/Cardosaum/anki-addons)
+1. 🗣 Commented on [#5](https://github.com/ericahn/anki-template-editor/issues/5) in [ericahn/anki-template-editor](https://github.com/ericahn/anki-template-editor)
+2. 💪 Opened PR [#1](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord/pull/1) in [WendellRodriguesAmaral/Projeto-c.passWord](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord)
+3. 💪 Opened PR [#79](https://github.com/ng-devs/front-controle-estoque/pull/79) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
