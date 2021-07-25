@@ -45,11 +45,8 @@
 
 **:zap: Minhas Últimas Postagens**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
-</a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/1" alt="Recent Article 1">
-</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### :man_technologist: Minha Stack de Desenvolvimento
 
