@@ -254,6 +254,12 @@
 <br />
 <br />
 
+<p align="center">
+    <a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
+        <img  alt="Code Warrior Profile Badges" title="Insomnia" src="https://www.codewars.com/users/gleisonkz/badges/large" />
+    </a>
+</p>
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" /> </p>
 
 <img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&langs_count=5&theme=dark&layout=compact" />
