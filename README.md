@@ -36,17 +36,20 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#67](https://github.com/JuAintablian/front-controle-estoque/issues/67) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-2. 💪 Opened PR [#66](https://github.com/JuAintablian/front-controle-estoque/pull/66) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
-3. ❗️ Closed issue [#46](https://github.com/JuAintablian/front-controle-estoque/issues/46) in [JuAintablian/front-controle-estoque](https://github.com/JuAintablian/front-controle-estoque)
+1. 🗣 Commented on [#5](https://github.com/ericahn/anki-template-editor/issues/5) in [ericahn/anki-template-editor](https://github.com/ericahn/anki-template-editor)
+2. 💪 Opened PR [#1](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord/pull/1) in [WendellRodriguesAmaral/Projeto-c.passWord](https://github.com/WendellRodriguesAmaral/Projeto-c.passWord)
+3. 💪 Opened PR [#79](https://github.com/ng-devs/front-controle-estoque/pull/79) in [ng-devs/front-controle-estoque](https://github.com/ng-devs/front-controle-estoque)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
 
 **:zap: Minhas Últimas Postagens**
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gleisonsubzerokz/0" alt="Recent Article 0">
-</a>
+<!-- BLOG-POST-LIST:START -->
+- [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.hashnode.dev/viewchild-decorator-angular)
+- [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.hashnode.dev/propriedade-vs-atributo)
+- [Extensão Google Chrome com Angular 11](https://gleisonsubzerokz.hashnode.dev/extensao-google-chrome-com-angular-11)
+<!-- BLOG-POST-LIST:END -->
 
 #### :man_technologist: Minha Stack de Desenvolvimento
 
