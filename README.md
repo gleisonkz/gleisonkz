@@ -46,7 +46,6 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.hashnode.dev/viewchild-decorator-angular)
 - [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.hashnode.dev/propriedade-vs-atributo)
 - [Extensão Google Chrome com Angular 11](https://gleisonsubzerokz.hashnode.dev/extensao-google-chrome-com-angular-11)
