@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
-- 🔭 Atualmente trabalhando na **Fecomércio MG.**
+- 🔭 Atualmente trabalhando na **GFT Technologies SE.**
 - 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
@@ -46,6 +46,7 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.hashnode.dev/viewchild-decorator-angular)
 - [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.hashnode.dev/propriedade-vs-atributo)
 - [Extensão Google Chrome com Angular 11](https://gleisonsubzerokz.hashnode.dev/extensao-google-chrome-com-angular-11)
