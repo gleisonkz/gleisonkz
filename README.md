@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
-- 🔭 Atualmente trabalhando na **GFT Technologies SE.**
+- 🔭 Atualmente trabalhando no **Itaú Unibanco**
 - 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
