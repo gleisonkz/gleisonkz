@@ -1,3 +1,9 @@
+[![wakatime](https://wakatime.com/badge/user/f9eb4013-5c18-4ff8-b167-46bded874dc6.svg)](https://wakatime.com/@f9eb4013-5c18-4ff8-b167-46bded874dc6)
+<img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" />
+<a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
+        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
+</a>  
+
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
 <h4 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h4>
 
@@ -256,14 +262,6 @@
 
 <br />
 <br />
-
-<p align="center">
-    <a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
-        <img  alt="Code Warrior Profile Badges" title="Insomnia" src="https://www.codewars.com/users/gleisonkz/badges/large" />
-    </a>
-</p>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" /> </p>
 
 <img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&langs_count=5&theme=dark&layout=compact" />
 <br/>
