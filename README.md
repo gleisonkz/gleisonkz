@@ -52,9 +52,11 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.hashnode.dev/viewchild-decorator-angular)
-- [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.hashnode.dev/propriedade-vs-atributo)
-- [Extensão Google Chrome com Angular 11](https://gleisonsubzerokz.hashnode.dev/extensao-google-chrome-com-angular-11)
+- [Angular Schematics — Criando Projetos Customizados](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd?source=rss-b9adbab6e049------2)
+- [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.medium.com/entendendo-o-decorator-viewchild-angular-93969eee93e3?source=rss-b9adbab6e049------2)
+- [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.medium.com/a-diferen%C3%A7a-entre-propriedade-e-atributo-no-html-7693b0dd1461?source=rss-b9adbab6e049------2)
+- [Extensão Google Chrome com Angular 11](https://gleisonsubzerokz.medium.com/extens%C3%A3o-google-chrome-com-angular-11-cbe148b9ec8c?source=rss-b9adbab6e049------2)
+- [Tipagem Forte para Reactive Forms Angular](https://gleisonsubzerokz.medium.com/tipagem-forte-para-reactive-forms-angular-3400416c9a2d?source=rss-b9adbab6e049------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### :man_technologist: Minha Stack de Desenvolvimento
