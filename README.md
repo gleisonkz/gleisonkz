@@ -42,8 +42,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#279](https://github.com/felipecrs/semantic-release-vsce/issues/279) in [felipecrs/semantic-release-vsce](https://github.com/felipecrs/semantic-release-vsce)
-2. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+1. 🗣 Commented on [#279](https://github.com/felipecrs/semantic-release-vsce/issues/279) in [felipecrs/semantic-release-vsce](https://github.com/felipecrs/semantic-release-vsce)
+2. ❗️ Opened issue [#279](https://github.com/felipecrs/semantic-release-vsce/issues/279) in [felipecrs/semantic-release-vsce](https://github.com/felipecrs/semantic-release-vsce)
 3. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
 <!--END_SECTION:activity-->
 
