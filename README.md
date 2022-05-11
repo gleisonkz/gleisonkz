@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/ngx-devs/ngx-devs-cli/pull/7) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
-2. 💪 Opened PR [#7](https://github.com/ngx-devs/ngx-devs-cli/pull/7) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
-3. 🎉 Merged PR [#6](https://github.com/ngx-devs/ngx-devs-cli/pull/6) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
+1. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+2. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+3. ❗️ Opened issue [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
