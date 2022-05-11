@@ -44,7 +44,7 @@
 
 1. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
 2. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
-3. ❗️ Opened issue [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+3. 🗣 Commented on [#1](https://github.com/ngx-devs/ngxd-console-test/issues/1) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
