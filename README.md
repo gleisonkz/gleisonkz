@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/MarkLyck/gitmoji-changelog-action/issues/2) in [MarkLyck/gitmoji-changelog-action](https://github.com/MarkLyck/gitmoji-changelog-action)
-2. ❗️ Closed issue [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
-3. 🗣 Commented on [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+1. ❗️ Closed issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
+2. ❗️ Opened issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
+3. ❗️ Opened issue [#2](https://github.com/MarkLyck/gitmoji-changelog-action/issues/2) in [MarkLyck/gitmoji-changelog-action](https://github.com/MarkLyck/gitmoji-changelog-action)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
