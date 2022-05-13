@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
-2. 🗣 Commented on [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
-3. 🎉 Merged PR [#8](https://github.com/ngx-devs/ngx-devs-cli/pull/8) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
+1. ❗️ Opened issue [#2](https://github.com/MarkLyck/gitmoji-changelog-action/issues/2) in [MarkLyck/gitmoji-changelog-action](https://github.com/MarkLyck/gitmoji-changelog-action)
+2. ❗️ Closed issue [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
+3. 🗣 Commented on [#2](https://github.com/ngx-devs/ngxd-console-test/issues/2) in [ngx-devs/ngxd-console-test](https://github.com/ngx-devs/ngxd-console-test)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
