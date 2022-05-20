@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
-2. ❗️ Opened issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
-3. ❗️ Opened issue [#2](https://github.com/MarkLyck/gitmoji-changelog-action/issues/2) in [MarkLyck/gitmoji-changelog-action](https://github.com/MarkLyck/gitmoji-changelog-action)
+1. 🗣 Commented on [#21](https://github.com/manfredsteyer/module-federation-plugin-example/issues/21) in [manfredsteyer/module-federation-plugin-example](https://github.com/manfredsteyer/module-federation-plugin-example)
+2. ❗️ Closed issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
+3. ❗️ Opened issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
