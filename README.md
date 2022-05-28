@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/ngx-devs/ngx-devs-cli/pull/9) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
-2. 🗣 Commented on [#21](https://github.com/manfredsteyer/module-federation-plugin-example/issues/21) in [manfredsteyer/module-federation-plugin-example](https://github.com/manfredsteyer/module-federation-plugin-example)
-3. ❗️ Closed issue [#1](https://github.com/ngx-devs/ngxd-console/issues/1) in [ngx-devs/ngxd-console](https://github.com/ngx-devs/ngxd-console)
+1. 🎉 Merged PR [#10](https://github.com/ngx-devs/ngx-devs-cli/pull/10) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
+2. 🎉 Merged PR [#9](https://github.com/ngx-devs/ngx-devs-cli/pull/9) in [ngx-devs/ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli)
+3. 🗣 Commented on [#21](https://github.com/manfredsteyer/module-federation-plugin-example/issues/21) in [manfredsteyer/module-federation-plugin-example](https://github.com/manfredsteyer/module-federation-plugin-example)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
