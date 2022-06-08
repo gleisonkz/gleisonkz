@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
-2. 🗣 Commented on [#107](https://github.com/ngneat/hot-toast/issues/107) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
-3. 🗣 Commented on [#21](https://github.com/manfredsteyer/module-federation-plugin-example/issues/21) in [manfredsteyer/module-federation-plugin-example](https://github.com/manfredsteyer/module-federation-plugin-example)
+1. 🎉 Merged PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
+2. 💪 Opened PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
+3. ❗️ Opened issue [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
