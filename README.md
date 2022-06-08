@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
-2. 💪 Opened PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
-3. ❗️ Opened issue [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
+1. 🗣 Commented on [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
+2. ❗️ Closed issue [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
+3. 🎉 Merged PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
