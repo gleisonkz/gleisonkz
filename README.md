@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
-2. ❗️ Closed issue [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
-3. 🎉 Merged PR [#4](https://github.com/gleisonkz/sara-praise/pull/4) in [gleisonkz/sara-praise](https://github.com/gleisonkz/sara-praise)
+1. 🗣 Commented on [#5076](https://github.com/ChainSafe/web3.js/issues/5076) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
+2. 💪 Opened PR [#1](https://github.com/HudsonRetonde/Calculadora-de-IMC/pull/1) in [HudsonRetonde/Calculadora-de-IMC](https://github.com/HudsonRetonde/Calculadora-de-IMC)
+3. 🗣 Commented on [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
