@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5076](https://github.com/ChainSafe/web3.js/issues/5076) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
-2. 💪 Opened PR [#1](https://github.com/HudsonRetonde/Calculadora-de-IMC/pull/1) in [HudsonRetonde/Calculadora-de-IMC](https://github.com/HudsonRetonde/Calculadora-de-IMC)
-3. 🗣 Commented on [#109](https://github.com/ngneat/hot-toast/issues/109) in [ngneat/hot-toast](https://github.com/ngneat/hot-toast)
+1. ❗️ Opened issue [#2](https://github.com/nigrosimone/ng-simple-state/issues/2) in [nigrosimone/ng-simple-state](https://github.com/nigrosimone/ng-simple-state)
+2. 🗣 Commented on [#5076](https://github.com/ChainSafe/web3.js/issues/5076) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
+3. 💪 Opened PR [#1](https://github.com/HudsonRetonde/Calculadora-de-IMC/pull/1) in [HudsonRetonde/Calculadora-de-IMC](https://github.com/HudsonRetonde/Calculadora-de-IMC)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
