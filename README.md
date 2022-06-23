@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/DavidSaintAnna/Bartwhile/pull/1) in [DavidSaintAnna/Bartwhile](https://github.com/DavidSaintAnna/Bartwhile)
-2. ❗️ Opened issue [#2](https://github.com/nigrosimone/ng-simple-state/issues/2) in [nigrosimone/ng-simple-state](https://github.com/nigrosimone/ng-simple-state)
-3. 🗣 Commented on [#5076](https://github.com/ChainSafe/web3.js/issues/5076) in [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js)
+1. ❗️ Opened issue [#194](https://github.com/angular-architects/module-federation-plugin/issues/194) in [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin)
+2. 💪 Opened PR [#1](https://github.com/DavidSaintAnna/Bartwhile/pull/1) in [DavidSaintAnna/Bartwhile](https://github.com/DavidSaintAnna/Bartwhile)
+3. ❗️ Opened issue [#2](https://github.com/nigrosimone/ng-simple-state/issues/2) in [nigrosimone/ng-simple-state](https://github.com/nigrosimone/ng-simple-state)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
