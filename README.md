@@ -1,8 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/f9eb4013-5c18-4ff8-b167-46bded874dc6.svg)](https://wakatime.com/@f9eb4013-5c18-4ff8-b167-46bded874dc6)
 <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" />
 <a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
-        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
-</a>  
+<img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
+</a>
 
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
 <h4 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h4>
@@ -52,6 +52,7 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Angular Schematics — Criando Projetos Customizados](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd?source=rss-b9adbab6e049------2)
 - [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.medium.com/entendendo-o-decorator-viewchild-angular-93969eee93e3?source=rss-b9adbab6e049------2)
 - [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.medium.com/a-diferen%C3%A7a-entre-propriedade-e-atributo-no-html-7693b0dd1461?source=rss-b9adbab6e049------2)
@@ -265,6 +266,6 @@
 <br />
 <br />
 
-<img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&langs_count=5&theme=dark&layout=compact" />
+<img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&hide=c%23&theme=dark&layout=compact" />
 <br/>
 <img align="center" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true&theme=dark" />
