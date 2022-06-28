@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/andrew-yangy/ng-profiler/issues/7) in [andrew-yangy/ng-profiler](https://github.com/andrew-yangy/ng-profiler)
-2. ❗️ Opened issue [#194](https://github.com/angular-architects/module-federation-plugin/issues/194) in [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin)
-3. 💪 Opened PR [#1](https://github.com/DavidSaintAnna/Bartwhile/pull/1) in [DavidSaintAnna/Bartwhile](https://github.com/DavidSaintAnna/Bartwhile)
+1. ❗️ Opened issue [#275](https://github.com/re-rxjs/react-rxjs/issues/275) in [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs)
+2. 🗣 Commented on [#7](https://github.com/andrew-yangy/ng-profiler/issues/7) in [andrew-yangy/ng-profiler](https://github.com/andrew-yangy/ng-profiler)
+3. ❗️ Opened issue [#194](https://github.com/angular-architects/module-federation-plugin/issues/194) in [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
