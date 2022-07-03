@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#275](https://github.com/re-rxjs/react-rxjs/issues/275) in [re-rxjs/react-rxjs](https://github.com/re-rxjs/react-rxjs)
-2. 🗣 Commented on [#7](https://github.com/andrew-yangy/ng-profiler/issues/7) in [andrew-yangy/ng-profiler](https://github.com/andrew-yangy/ng-profiler)
-3. ❗️ Opened issue [#194](https://github.com/angular-architects/module-federation-plugin/issues/194) in [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin)
+1. 🎉 Merged PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
+2. 💪 Opened PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
+3. 🎉 Merged PR [#1](https://github.com/gleisonkz/crowdin-demo-app/pull/1) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
