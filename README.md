@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
-2. 💪 Opened PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
-3. 🎉 Merged PR [#1](https://github.com/gleisonkz/crowdin-demo-app/pull/1) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
+1. 💪 Opened PR [#3](https://github.com/gleisonkz/crowdin-demo-app/pull/3) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
+2. 🎉 Merged PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
+3. 💪 Opened PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
