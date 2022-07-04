@@ -42,7 +42,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/gleisonkz/angular/pull/1) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+1. 💪 Opened PR [#2](https://github.com/gleisonkz/angular/pull/2) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
 2. 🎉 Merged PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
 3. 💪 Opened PR [#2](https://github.com/gleisonkz/crowdin-demo-app/pull/2) in [gleisonkz/crowdin-demo-app](https://github.com/gleisonkz/crowdin-demo-app)
 <!--END_SECTION:activity-->
