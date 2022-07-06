@@ -42,9 +42,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/gleisonkz/angular/pull/6) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
-2. 🎉 Merged PR [#5](https://github.com/gleisonkz/angular/pull/5) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
-3. 💪 Opened PR [#5](https://github.com/gleisonkz/angular/pull/5) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+1. 🎉 Merged PR [#6](https://github.com/gleisonkz/angular/pull/6) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+2. 💪 Opened PR [#6](https://github.com/gleisonkz/angular/pull/6) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+3. 🎉 Merged PR [#5](https://github.com/gleisonkz/angular/pull/5) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
