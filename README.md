@@ -1,21 +1,20 @@
-[![wakatime](https://wakatime.com/badge/user/f9eb4013-5c18-4ff8-b167-46bded874dc6.svg)](https://wakatime.com/@f9eb4013-5c18-4ff8-b167-46bded874dc6)
-<img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" />
-<a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
-<img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
-</a>
-
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
-<h4 align="center">Bem vindo ao meu repositório, sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar  e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻</h4>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
+<h4 align="center">Sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar. 💻</h4>
 
 - 🔭 Atualmente trabalhando no **Itaú Unibanco**
-- 💬 Pergunte-me sobre **tech, games, movies, Anki and study techniques.**
+- 💬 Pergunte-me sobre **tech, games, english, typing techniques, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
-</br>
-</br>
-</br>
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/gleisonkz?tab=stars"
+    >Acesse meus repositórios</a>
+  </h2>
+</div>
+
 <h3 align="center">Meus contatos:</h3>
 
 <p align="center">
@@ -52,6 +51,7 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Angular Schematics — Criando Projetos Customizados](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd?source=rss-b9adbab6e049------2)
 - [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.medium.com/entendendo-o-decorator-viewchild-angular-93969eee93e3?source=rss-b9adbab6e049------2)
 - [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.medium.com/a-diferen%C3%A7a-entre-propriedade-e-atributo-no-html-7693b0dd1461?source=rss-b9adbab6e049------2)
@@ -263,8 +263,22 @@
 </p>
 
 <br />
-<br />
 
-<img align="center" alt="Gleison's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&hide=c%23&theme=dark&layout=compact" />
-<br/>
-<img align="center" alt="Gleison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&hide_border=true&theme=dark" />
+ <div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleisonkz&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleisonkz&layout=compact&langs_count=7&theme=blue-green&hide=c%23"/>
+</div>
+
+<div align='center'>
+<a height="150em" href="http://www.github.com/gleisonkz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gleisonkz&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
+
+<div align='center'>
+    <a href="https://wakatime.com/@f9eb4013-5c18-4ff8-b167-46bded874dc6" target="_blank" >
+        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://wakatime.com/badge/user/f9eb4013-5c18-4ff8-b167-46bded874dc6.svg" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=gleisonkz" alt="gleisonkz" />
+    <a href="https://www.codewars.com/users/gleisonkz" target="_blank" >
+        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
+    </a>
+ </div>
