@@ -51,7 +51,6 @@
 **:zap: Minhas Últimas Postagens**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Angular Schematics — Criando Projetos Customizados](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd?source=rss-b9adbab6e049------2)
 - [Entendendo o Decorator @ViewChild— Angular](https://gleisonsubzerokz.medium.com/entendendo-o-decorator-viewchild-angular-93969eee93e3?source=rss-b9adbab6e049------2)
 - [A diferença entre Propriedade e Atributo no HTML](https://gleisonsubzerokz.medium.com/a-diferen%C3%A7a-entre-propriedade-e-atributo-no-html-7693b0dd1461?source=rss-b9adbab6e049------2)
