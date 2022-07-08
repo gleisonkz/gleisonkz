@@ -270,10 +270,6 @@
 </div>
 
 <div align='center'>
-<a height="150em" href="http://www.github.com/gleisonkz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gleisonkz&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
-
-<div align='center'>
     <a href="https://wakatime.com/@f9eb4013-5c18-4ff8-b167-46bded874dc6" target="_blank" >
         <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://wakatime.com/badge/user/f9eb4013-5c18-4ff8-b167-46bded874dc6.svg" />
     </a>
@@ -282,3 +278,7 @@
         <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
     </a>
  </div>
+
+<div align='center'>
+<a height="150em" href="http://www.github.com/gleisonkz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gleisonkz&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
