@@ -41,9 +41,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/gleisonkz/angular/pull/9) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
-2. 💪 Opened PR [#9](https://github.com/gleisonkz/angular/pull/9) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
-3. ❗️ Opened issue [#54](https://github.com/re-rxjs/react-rxjs.org/issues/54) in [re-rxjs/react-rxjs.org](https://github.com/re-rxjs/react-rxjs.org)
+1. 💪 Opened PR [#10](https://github.com/gleisonkz/angular/pull/10) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+2. 🎉 Merged PR [#9](https://github.com/gleisonkz/angular/pull/9) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
+3. 💪 Opened PR [#9](https://github.com/gleisonkz/angular/pull/9) in [gleisonkz/angular](https://github.com/gleisonkz/angular)
 <!--END_SECTION:activity-->
 
 <p align="center" style="display:flex">
