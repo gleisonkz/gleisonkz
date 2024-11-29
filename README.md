@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Gleison Almeida</h1>
 <h4 align="center">Sou graduando em Sistemas de Informação, apaixonado por aprender, tocar e principalmente codar. 💻</h4>
 
-- 🔭 Atualmente trabalhando no **Itaú Unibanco**
+- 🔭 Atualmente trabalhando na **Gx2 Tecnologia**
 - 💬 Pergunte-me sobre **tech, games, english, typing techniques, Anki and study techniques.**
 - 🎴 Amo **aprender a aprender** e tudo sobre técnicas de **memorização**.
 
